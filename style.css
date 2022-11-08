@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.head{
+    margin-top: 200px;
+    border: 1px solid yellow;
+    height: 250px;
+    width: 350px;
+    margin-left: 500px;
+    background-color: yellow;
+}
+.head1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 60px;
+   
+}
+.head2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+
+}
+/* .head3{
+    background-color: yellow;
+} */
+.head4{
+    margin-left: 15px;
+    font-size: 30px;
+    color: red;
+}
+.head5{
+    margin-left: 5px;
+    font-size: 20px;
+}
+button{
+    padding: 9px 9px;
+}
+.btn1{
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+}
+.btn2{
+    background-color: red;
+    border: 1px solid red;
+    color: white;
+}
+.btn3{
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+}
